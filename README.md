@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Naomi
-- 🌱 At the moment, I am studying software development at Yoobee college in New Zealand.
-- 👀 The advanced technology related to MR, IoT, and blockchain interests me, which leads me to wish to enhance my skills in order to be able to participate in such projects in the future.
+- 🌱 My studies in software development at Yoobee College in New Zealand just ended.
+- 💻 I thoroughly enjoyed the process of developing visual effects, sound effects, and audio elements during final team game project in Unity https://github.com/jazman43/Lost-Souls-Project. I aspire to participate in creative endeavours in the future.
+- 👀 My interest is in the cutting edge technology associated with blockchain, IoT, and XR.
 - 💞️ Music, baking, and designing are some of the creative activities I enjoy during my free time.
 - 👋 こんにちはナオミです。
-- 🌱現在はソフトウェア開発の勉強をYoobeeカレッジで勉強しています。
-- 👀MRやIoT、ブロックチェーンなどの最新技術に興味があるので、将来的にはこのようなプロジェクトに参加できるようにスキルアップしたいと思っています。
+- 🌱 ソフトウェア開発の勉強をYoobeeカレッジで勉強していました。
+- 💻 最終チームプロジェクトでのVFXとSFXやAudio開発 https://github.com/jazman43/Lost-Souls-Project がとても楽しかったので、いつかクリエイティブなプロジェクトに携われたらと思います。
+- 👀 XRやIoT、ブロックチェーンなどの最新技術に興味があります。
 - 💞️ 音楽を演奏したりベーキングしたりデザインなど創作活動を趣味で楽しんでいます。
 
 <!---
