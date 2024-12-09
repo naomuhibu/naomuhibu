@@ -5,7 +5,8 @@
 - 💞️ Music, baking, and designing are some of the creative activities I enjoy during my free time.
 - 👋 こんにちはナオミです。
 - 🌱 クラウドエンジニアの勉強をYoobeeカレッジで勉強し始めました。
-- 💻 私のアプリプロジェクト https://github.com/naomuhibu/WhacACupcakes　そして、最終チームプロジェクトでのVFXとSFXやAudio開発 https://github.com/jazman43/Lost-Souls-Project がとても楽しかったので、いつかクリエイティブなプロジェクトに携われたらと思います。
+- 💻 私のアプリプロジェクト https://github.com/naomuhibu/WhacACupcakes
+- そして、最終チームプロジェクトでのVFXとSFXやAudio開発 https://github.com/jazman43/Lost-Souls-Project がとても楽しかったので、いつかクリエイティブなプロジェクトに携われたらと思います。
 - 👀 XRやIoTなどの最新技術に興味があります。
 - 💞️ 音楽を演奏したりベーキングしたりデザインなど創作活動を趣味で楽しんでいます。
 
