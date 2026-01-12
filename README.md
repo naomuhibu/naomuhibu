@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naomi
+- 👋 Hi, I’m Naomi This is my home page https://naomuhibu.github.io
 - 🌱 My studies in cloud engineer at Yoobee College in New Zealand just compleated. https://github.com/naomuhibu/Multi-Cloud-project/wiki
 - 💻 I thoroughly enjoyed the process of developing my app short project https://github.com/naomuhibu/WhacACupcakes and visual effects, sound effects, and audio elements https://soundcloud.com/naomi-murachi-970979145/sets/lost-soulz-the-labyrinth-1 during final team game project in Unity https://github.com/jazman43/Lost-Souls-Project. I aspire to participate in creative endeavours in the future.
 - 👀 My interest is in the cutting edge technology associated with IoT, and XR.
