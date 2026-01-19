@@ -1,7 +1,4 @@
 # 👋 Hi, I’m Naomi (naomuhibu)
-
-**Cloud & Data Engineer | Aspiring AI Specialist | Master of AI for Land Use Candidate**
-
 I am a creator and engineer passionate about bridging the gap between logic and creativity. With a background in precise craftsmanship and a recently completed qualification in Cloud Engineering, I focus on building robust, scalable, and innovative systems.
 
 ---
