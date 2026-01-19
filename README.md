@@ -1,11 +1,29 @@
-- 👋 Hi, I’m Naomi This is my home page https://naomuhibu.github.io
-- 🌱 My studies in cloud engineer at Yoobee College in New Zealand just compleated. https://github.com/naomuhibu/Multi-Cloud-project/wiki
-- 💻 I thoroughly enjoyed the process of developing my app short project https://github.com/naomuhibu/WhacACupcakes and visual effects, sound effects, and audio elements https://soundcloud.com/naomi-murachi-970979145/sets/lost-soulz-the-labyrinth-1 during final team game project in Unity https://github.com/jazman43/Lost-Souls-Project. I aspire to participate in creative endeavours in the future.
-- 👀 My interest is in the cutting edge technology associated with IoT, and XR.
-- 💞️ Music, baking, and designing are some of the creative activities I enjoy during my free time.
+# 👋 Hi, I’m Naomi (naomuhibu)
 
-<!---
-naomuhibu/naomuhibu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-📫 How to reach me ...
---->
+**Cloud & Data Engineer | Aspiring AI Specialist | Master of AI for Land Use Candidate**
+
+I am a creator and engineer passionate about bridging the gap between logic and creativity. With a background in precise craftsmanship and a recently completed qualification in Cloud Engineering, I focus on building robust, scalable, and innovative systems.
+
+---
+
+### 🚀 Featured Projects
+
+* **[Multi-Cloud Infrastructure Project](https://github.com/naomuhibu/Multi-Cloud-project/wiki)** Designing and implementing scalable solutions across AWS and Azure.
+* **[Lost Souls Project - Unity Game Development](https://github.com/jazman43/Lost-Souls-Project)** Specialized in VFX, SFX, and spatial audio integration.  
+    🎵 [Listen to the Soundscape on SoundCloud](https://soundcloud.com/naomi-murachi-970979145/sets/lost-soulz-the-labyrinth-1)
+* **[Whac-A-Cupcakes](https://github.com/naomuhibu/WhacACupcakes)** A creative short project blending software logic with playful design.
+
+---
+
+### 🧪 Current Focus & Interests
+
+* **Academic Journey:** Incoming Master of Artificial Intelligence for Land Use (MAI-LU) at Lincoln University (2026).
+* **Cutting-edge Tech:** Deeply interested in **IoT sensor integration, Computer Vision, and XR (AR/VR)** for sustainable agriculture.
+* **Creative Engineering:** Combining my passion for music, design, and systematic problem-solving to build Digital Twins.
+
+---
+
+### 🌐 Connect with Me
+
+* **Portfolio:** [naomuhibu.github.io](https://naomuhibu.github.io) (Full profile & Research insights)
+* **Contact:** sanchequai@hotmail.com
