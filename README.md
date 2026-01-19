@@ -25,5 +25,6 @@ I am a creator and engineer passionate about bridging the gap between logic and 
 
 ### 🌐 Connect with Me
 
+* **Home Page:** [https://naomuhibu.github.io](https://naomuhibu.github.io)
 * **Portfolio:** [https://glittery-yeot-2007a5.netlify.app](https://glittery-yeot-2007a5.netlify.app)
 * **Contact:** sanchequai@hotmail.com
