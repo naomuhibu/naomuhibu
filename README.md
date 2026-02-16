@@ -14,7 +14,7 @@ I am a creator and engineer passionate about bridging the gap between logic and 
 
 ### 🧪 Current Focus & Interests
 
-* **Academic Journey:** Incoming Master of Artificial Intelligence for Land Use (MAI-LU) at Lincoln University (2026).
+* **Academic Journey:** Master of Artificial Intelligence for Land Use (MAI-LU) at Lincoln University (2026).
 * **Cutting-edge Tech:** Deeply interested in **IoT sensor integration, Computer Vision, and XR (AR/VR)** for sustainable agriculture.
 * **Creative Engineering:** Combining my passion for music, design, and systematic problem-solving to build Digital Twins.
 
