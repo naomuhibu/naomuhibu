@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Naomi (naomuhibu)
-I am a creator and engineer passionate about bridging the gap between logic and creativity. With a background in precise craftsmanship and a recently completed qualification in Cloud Engineering, I focus on building robust, scalable, and innovative systems.
+I am a creator and engineer passionate about bridging the gap between logic and creativity. With a background in precise craftsmanship and a recently completed in Cloud Engineering course, I focus on building robust, scalable, and innovative systems.
 
 ---
 
